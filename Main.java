@@ -23,27 +23,6 @@ public class Main {
                 return a--;
             }
         };
-
-
-//        NumberW number = new NumberW(3.34343);
-//
-//        double n2 = number.doubleValue();
-//
-//        long n3 = number.longValue();
-//
-//
-//        int n4 = number.intValue();
-//        System.out.println(n2 + "\n" + n3 + "\n" + n4);
-//
-//
-//        OperatorsRegistry operatorsRegistry = new OperatorsRegistry();
-//        operatorsRegistry.addInfixOperator("+", (double a, double b) -> a + b);
-//
-//        System.out.println(operatorsRegistry.test(3,244));
-//        /*
-//
-//        Operators ops.AddInfixOperator("+", (a,b) -> a + b);
-//         */
-//
+        // can be tested too
     }
 }
